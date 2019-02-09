@@ -1,0 +1,6 @@
+﻿  dllmain.cpp
+  InjectorDLL.cpp
+  Generating code
+  All 4096 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  InjectorDLL.vcxproj -> C:\Users\glora\Documents\MinecraftInjector\InjectorDLL\x64\Release\InjectorDLL.dll
